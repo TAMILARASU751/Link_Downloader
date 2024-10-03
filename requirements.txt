@@ -1,0 +1,6 @@
+pytube>=12.1.0
+spotdl>=4.1.10
+instaloader>=4.9.5
+selenium>=4.11.2
+requests>=2.31.0
+webdriver-manager>=4.0.0
